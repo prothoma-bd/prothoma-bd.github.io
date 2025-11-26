@@ -1,0 +1,140 @@
+{
+    "personalInfo": {
+        "name": "Sabina Sultana",
+        "title": "SQA Engineer",
+        "email": "sabina.prothoma@gmail.com",
+        "phone": "01743159817",
+        "location": "Bangladesh",
+        "summary": "As a dedicated and detail-oriented professional, I seek to leverage my expertise in Software Quality Assurance to ensure the delivery of high-quality, reliable products that meet client expectations and industry standards. I aim to contribute to a dynamic team through strong analytical skills, attention to detail, and a passion for continuous improvement in software development processes.",
+        "image": "/Sabina.jpg"
+    },
+    "experience": [
+        {
+            "company": "Mojaru",
+            "role": "Course Instructor (ABACUS)",
+            "duration": "Jan 2022 – Present",
+            "description": "Delivering online abacus training and enhancing students’ mental calculation skills."
+        },
+        {
+            "company": "BCIC College",
+            "role": "Lecturer of ICT",
+            "duration": "Aug 2017 - Jun 2023",
+            "description": "Designed and administered exams, quizzes, and practical assignments to evaluate students understanding and skills. Managed classroom dynamics effectively, ensuring a conducive learning environment for students. Integrated modern educational technologies, such as interactive presentations and online resources, to enhance the learning experience. Collaborated with colleagues to share best practices and improve teaching strategies and methods."
+        },
+        {
+            "company": "ALOHA Bangladesh",
+            "role": "Course Instructor (ABACUS)",
+            "duration": "Jan 2011 – Mar 2017",
+            "description": "Enhanced students' mathematical skills, including speed, accuracy, and concentration, through regular practice and exercises. Maintained a positive and disciplined classroom environment, ensuring students remained focused and motivated."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Jahangirnagar University",
+            "degree": "MSc in Computer Science & Engineering",
+            "year": "2020"
+        },
+        {
+            "institution": "Daffodil Institute of IT (NU)",
+            "degree": "BSc in Computer Science & Engineering",
+            "year": "2015"
+        }
+    ],
+    "skills": [
+        "Manual Testing",
+        "Test Planning",
+        "RTM",
+        "Test Case Writing",
+        "Bug Reporting",
+        "Smoke Testing",
+        "Regression Testing",
+        "Jira",
+        "Postman",
+        "Newman",
+        "SQL",
+        "C",
+        "Java",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Selenium WebDriver",
+        "Maven",
+        "TestNG",
+        "Data-Driven Testing",
+        "GitHub"
+    ],
+    "projects": [
+        {
+            "name": "Evaly Online Shopping",
+            "description": "Manual testing of the Evaly e-commerce platform, focusing on product browsing, cart flow, and checkout process.",
+            "technologies": [
+                "Manual Testing",
+                "Functional Testing",
+                "Regression Testing"
+            ],
+            "link": ""
+        },
+        {
+            "name": "Evershop",
+            "description": "Manual and automation testing of the Evershop eCommerce platform, focusing on product search, cart, and checkout functionality.",
+            "technologies": [
+                "Selenium",
+                "Java",
+                "Manual Testing"
+            ],
+            "link": "https://github.com/prothoma-bd"
+        },
+        {
+            "name": "Picky Online Shopping",
+            "description": "Performed manual testing on the Picky online shopping platform. Designed and executed test cases, performed functional and regression testing, and reported bugs.",
+            "technologies": [
+                "Manual Testing",
+                "Test Case Design",
+                "Bug Reporting",
+                "Jira"
+            ],
+            "link": "https://www.picky.com.bd/"
+        },
+        {
+            "name": "Mahfil App",
+            "description": "Manual testing of Mahfil, an Islamic social media and content-sharing mobile application. Covered functional, UI, and usability testing.",
+            "technologies": [
+                "Manual Testing",
+                "Mobile App Testing",
+                "Test Case Design"
+            ],
+            "link": ""
+        },
+        {
+            "name": "API Testing – Booking API",
+            "description": "Performed API testing on Booking APIs using Postman and Newman. Created test collections, validated responses, and automated test execution.",
+            "technologies": [
+                "Postman",
+                "Newman",
+                "REST API Testing"
+            ],
+            "link": "https://github.com/prothoma-bd"
+        },
+        {
+            "name": "Booking API – Postman Automation",
+            "description": "API automation using Postman and Newman to validate Booking APIs and automate response assertions.",
+            "technologies": [
+                "Postman",
+                "Newman"
+            ],
+            "link": "https://github.com/prothoma-bd"
+        },
+        {
+            "name": "Rokomari Web Automation",
+            "description": "Automated testing framework for the Rokomari e-commerce website using Selenium WebDriver, TestNG, Maven, and Java. The project follows the Page Object Model (POM) architecture and covers major user flows including Google login, author-based navigation, filtering, product selection, cart operation, shipping process, and logout.",
+            "technologies": [
+                "Selenium WebDriver",
+                "Java",
+                "TestNG",
+                "Maven",
+                "Page Object Model (POM)"
+            ],
+            "link": "https://github.com/prothoma-bd/rokomari-web-automation"
+        }
+    ]
+}
