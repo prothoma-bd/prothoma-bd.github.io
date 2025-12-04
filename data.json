@@ -13,7 +13,7 @@
             "company": "Mojaru",
             "role": "Course Instructor (ABACUS)",
             "duration": "Jan 2022 – Present",
-            "description": "Delivering online abacus training and enhancing students’ mental calculation skills."
+            "description": "Delivering online abacus training and enhancing students' mental calculation skills."
         },
         {
             "company": "BCIC College",
@@ -42,7 +42,7 @@
     ],
     "skills": [
         "Manual Testing",
-        "Test Planning",\\\
+        "Test Planning",
         "RTM",
         "Test Case Writing",
         "Bug Reporting",
