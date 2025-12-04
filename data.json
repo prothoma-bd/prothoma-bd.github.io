@@ -31,18 +31,18 @@
     "education": [
         {
             "institution": "Jahangirnagar University",
-            "degree": "MSc in Computer Science & Engineering",
+            "degree": "M.Sc in Computer Science",
             "year": "2020"
         },
         {
             "institution": "Daffodil Institute of IT (NU)",
-            "degree": "BSc in Computer Science & Engineering",
+            "degree": "B.Sc in Computer Science & Engineering",
             "year": "2015"
         }
     ],
     "skills": [
         "Manual Testing",
-        "Test Planning",
+        "Test Planning",\\\
         "RTM",
         "Test Case Writing",
         "Bug Reporting",
@@ -72,7 +72,7 @@
                 "Functional Testing",
                 "Regression Testing"
             ],
-            "link": ""
+            "link": "https://github.com/prothoma-bd/Evaly"
         },
         {
             "name": "Evershop",
@@ -82,7 +82,7 @@
                 "Java",
                 "Manual Testing"
             ],
-            "link": "https://github.com/prothoma-bd"
+            "link": "https://github.com/prothoma-bd/api-evershop"
         },
         {
             "name": "Picky Online Shopping",
@@ -93,7 +93,7 @@
                 "Bug Reporting",
                 "Jira"
             ],
-            "link": "https://www.picky.com.bd/"
+            "link": "https://github.com/prothoma-bd/picky"
         },
         {
             "name": "Mahfil App",
@@ -103,7 +103,7 @@
                 "Mobile App Testing",
                 "Test Case Design"
             ],
-            "link": ""
+            "link": "https://github.com/prothoma-bd/mahfil-app-assignment"
         },
         {
             "name": "API Testing – Booking API",
@@ -113,7 +113,7 @@
                 "Newman",
                 "REST API Testing"
             ],
-            "link": "https://github.com/prothoma-bd"
+            "link": "https://github.com/prothoma-bd/Booking-API"
         },
         {
             "name": "Booking API – Postman Automation",
@@ -122,7 +122,7 @@
                 "Postman",
                 "Newman"
             ],
-            "link": "https://github.com/prothoma-bd"
+            "link": "https://github.com/prothoma-bd/api-evershop"
         },
         {
             "name": "Rokomari Web Automation",
